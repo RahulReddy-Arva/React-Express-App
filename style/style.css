@@ -1,0 +1,13 @@
+.list-group{
+    font-style: italic;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: white;
+}
+
+.list-group .list-group-item{
+    background-color: grey;
+}
+
+.list-group-item:hover{
+    background-color: black;
+}
